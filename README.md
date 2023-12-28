@@ -1,0 +1,1 @@
+# opbnb_inscription_minter
